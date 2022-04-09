@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">OsagoSravni</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculator_osago">Калькулятор ОСАГО</string>
+    <string name="input_item_hint_text">Город регистрации собственника</string>
+    
+    <string name="next_btn">Далее</string>
+    <string name="confirm_btn">Подтвердить</string>
+
+    <string name="test_title">БТ</string>
+    <string name="test_name">(базовый тариф)</string>
+    <string name="test_detailText">Устанавливает страховая компания</string>
+    <string name="test_value">2 754 – 4 432 ₽</string>
+    <string name="your_odds">Ваши коэффициенты</string>
+    <string name="odds_value">БТ×КМ×КТ×КБМ×КО×КВС</string>
+    <string name="calculate_osago">Рассчитать ОСАГО</string>
+    <string name="calculate_price">Рассчитать точную цену и купить</string>
+    <string name="calculate_price_title">Расчёт цены полиса</string>
+
+    <string name="hint_city_registration">Город регистрации собственника</string>
+    <string name="hint_power">Мощность автомобиля</string>
+    <string name="hint_how_many_drivers">Сколько водителей</string>
+    <string name="hint_age">Возраст младшего из водителей</string>
+    <string name="hint_min_experience">Минимальный стаж водителей</string>
+    <string name="hint_no_accidents">Сколько лет не было аварий</string>
+
+
+
+    <string name="calculator_1_coefficient_message">Устанавливает страховая компания</string>
+    <string name="calculator_1_coefficient_header">БТ</string>
+    <string name="calculator_1_coefficient_name">(базовый тариф)</string>
+    <string name="calculator_1_coefficient_title">БТ</string>
+    <string name="calculator_1_coefficient_value">2 754 – 4 432 Р</string>
+
+    <string name="calculator_2_coefficient_message">Чем мощнее автомобиль, тем дороже страховой полис</string>
+    <string name="calculator_2_coefficient_header">КМ</string>
+    <string name="calculator_2_coefficient_name">(коэфф. мощности)</string>
+    <string name="calculator_2_coefficient_title">КМ</string>
+    <string name="calculator_2_coefficient_value">0,6 – 1,6</string>
+
+    <string name="calculator_3_coefficient_message">Определяется по прописке собственника автомобиля</string>
+    <string name="calculator_3_coefficient_header">КТ</string>
+    <string name="calculator_3_coefficient_name">(территориальный коэфф.)</string>
+    <string name="calculator_3_coefficient_title">КТ</string>
+    <string name="calculator_3_coefficient_value">0,64 – 1,99</string>
+
+    <string name="calculator_4_coefficient_message">Учитывается только самый высокий коэффициент из всех водителей</string>
+    <string name="calculator_4_coefficient_header">КБМ</string>
+    <string name="calculator_4_coefficient_name">(коэфф. безаварийности)</string>
+    <string name="calculator_4_coefficient_title">КБМ</string>
+    <string name="calculator_4_coefficient_value">0,5 – 2,45</string>
+
+    <string name="calculator_5_coefficient_message">Чем больше возраст и стаж у вписанного в полис водителя, тем дешевле будет полис</string>
+    <string name="calculator_5_coefficient_header">КВС</string>
+    <string name="calculator_5_coefficient_name">(коэфф. возраст/стаж)</string>
+    <string name="calculator_5_coefficient_title">КВС</string>
+    <string name="calculator_5_coefficient_value">0,90 – 1,93</string>
+
+    <string name="calculator_6_coefficient_message">Полис с ограниченным списком водителей будет стоить дешевле</string>
+    <string name="calculator_6_coefficient_header">КО</string>
+    <string name="calculator_6_coefficient_name">(коэфф. ограничений)</string>
+    <string name="calculator_6_coefficient_title">КО</string>
+    <string name="calculator_6_coefficient_value">1 или 1,99</string>
+
+
+    <string name="company_name">Согласие</string>
+    <string name="company_price">10 575 ₽</string>
+    <string name="company_rating">4.0</string>
+
+</resources>

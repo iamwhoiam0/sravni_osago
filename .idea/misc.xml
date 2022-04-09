@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/btn_active.xml" value="0.26145833333333335" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/btn_selector.xml" value="0.3828125" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/edit_text_cursor_drawable.xml" value="0.26145833333333335" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/ic_calculator.xml" value="0.26145833333333335" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/layout_shadow.xml" value="1.75" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/rounded_back_10.xml" value="0.2552083333333333" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/rounded_back_12.xml" value="0.2552083333333333" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/drawable/rounded_back_20.xml" value="0.2552083333333333" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.33" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/fragment_calculator.xml" value="0.5514469453376206" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/fragment_policy_price.xml" value="0.5" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/input_item.xml" value="0.5" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/insurance_company_item.xml" value="0.75" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/my_coefficient_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyApps/repo-2/app/src/main/res/layout/shimmer_placeholder_layout.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
